@@ -72,7 +72,7 @@ func main() {
     var region string
 
     var rootCmd = &cobra.Command{
-        Use:   "thistools",
+        Use:   "ceki",
         Short: "A tool to validate and check AWS keys",
     }
 

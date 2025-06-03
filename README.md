@@ -10,6 +10,7 @@ CEKI (check key) is cli tool for checking validity of your AWS KEY.
 ## Clone source code
 git clone https://github.com/mahirrudin/ceki
 cd ceki
+go get
 
 ## windows
 env GOOS=windows GOARCH=amd64 go build -o ceki.exe

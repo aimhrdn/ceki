@@ -2,6 +2,8 @@
 
 CEKI (check key) is cli tool for checking validity of your AWS KEY. 
 
+![Ceki](ceki.png?raw=true)
+
 # Compile tools
 
 ```
